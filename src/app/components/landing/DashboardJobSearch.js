@@ -40,7 +40,6 @@ export default function DashBoardJobSearch () {
                                         <Skeleton sx={{ fontSize: '1rem', marginRight: '10px' }} width={80}></Skeleton>
                                         <Skeleton sx={{ fontSize: '1rem', marginRight: '10px' }} width={80}></Skeleton>
                                         <Skeleton sx={{ fontSize: '1rem', marginRight: '10px' }} width={80}></Skeleton>
-
                                     </Grid>
                                 </Grid>}>
                                 </ListItemText>
